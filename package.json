@@ -1,0 +1,23 @@
+{
+  "name": "allrecipes-scraper",
+  "version": "1.0.0",
+  "description": "Returns an array of ingredients (as strings) given an allRecipe url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmalamudroam/AllRecipes-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmalamudroam/AllRecipes-Scraper/issues"
+  },
+  "homepage": "https://github.com/dmalamudroam/AllRecipes-Scraper#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
